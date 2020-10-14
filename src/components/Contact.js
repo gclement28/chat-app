@@ -2,8 +2,6 @@ import React from 'react';
 import './Style.css';
 
 
-
-
 function Contact(props){
     
     return(
@@ -35,12 +33,14 @@ function Contact(props){
     
     
     </div>
-    );
-}
+
+    )};
+
+
     
 
         
     
 
 
-export default Contact
+export default Contact;
